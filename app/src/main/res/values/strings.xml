@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome">Welcome</string>
+    <string name="web_client_id">400952000823-h9iian4ctklinhdadhd816d8kdhjvmc7.apps.googleusercontent.com</string>
+    <string name="google">Google</string>
+    <string name="textview">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="all_your_notes">All Your Notes</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="description">Description</string>
+    <string name="enter_your_description">Enter Your Description</string>
+    <string name="save_your_note">Save Your Note</string>
+    <string name="write_here_your_note">Write Here Your Note</string>
+    <string name="enter_your_title">Enter Your Title</string>
+    <string name="create_new_note">Create New Note</string>
+    <string name="open_all_notes">Open All Notes</string>
+
+
+</resources>
